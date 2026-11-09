@@ -1,9 +1,9 @@
 class Atc < Formula
   desc "Fast AtCoder workflow from your terminal"
   homepage "https://github.com/toppoun/atc-rs"
-  url "https://github.com/toppoun/atc-rs/releases/download/v0.1.0-rc.11/atc-v0.1.0-rc.11-macos-aarch64.tar.gz"
-  version "0.1.0-rc.11"
-  sha256 "b39e60a85cfbd6696bf1ecf0f8ec66396703b09a58dcad0e08c603c2551434d9"
+  url "https://github.com/toppoun/atc-rs/releases/download/v0.1.0-rc.13/atc-v0.1.0-rc.13-macos-aarch64.tar.gz"
+  version "0.1.0-rc.13"
+  sha256 "64e15ab8d627484a193361929ac96eabed32373ff7fa1d272a666bee83b543e4"
   license "MIT"
 
   depends_on :macos
